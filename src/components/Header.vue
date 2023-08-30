@@ -16,7 +16,7 @@
           class="p-4"
           href="https://portfolio-teezer011.vercel.app"
           target="_blank"
-          >Mais Projetos</a
+          >Meus outros Projetos</a
         >
       </button>
     </div>
